@@ -1,5 +1,7 @@
 # Update or restore SD Card for Yaw 3
 
+This stock image has a more recent version of RaspberryPi OS, and I had to redevelop portions of the Yaw software to work with changes in the OS, I also added some performance improvements!
+
 If you want to modify the chair to support [Wifi6E then skip to here](wifi6e.md)
 
 Prior to doing this you should execute the following on the chair:
@@ -18,3 +20,9 @@ The output is your VirtualHere license, save this! you will need this if your SD
 Flash the following image to SD card using <a target="_blank" href="https://etcher.balena.io/">Balena Etcher</a>
 
 <a target="_blank" href="https://www.dropbox.com/scl/fi/z3sw98az1iv9dd7d81ekb/YawIII-RaspberryPIOS12-clean-opt.zip?rlkey=op915xaa90l3ocizqkcvj2ovu&st=o4hwm8b4&dl=0">YawIII-RaspberryPIOS12-clean-optimized</a>
+
+
+## I had to rebuild the entire image and redevelop the Yaw software to work with newer RaspberryPi OS. If it helped you.. maybe you could  
+<div align="center">
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="ItsVRK" data-color="#FFDD00" data-emoji="" data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+</div>

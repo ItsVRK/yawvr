@@ -1,5 +1,7 @@
 # Upgrade Yaw 3 to Wifi 6E
 
+The Image below has a more recent version of RaspberryPi OS than the image supplied with your chair, and I had to redevelop portions of the Yaw software to work with changes in the OS, I also added some performance improvements!
+
 Prior to doing this you should execute the following on the chair:
 
 SSH into the device, substitute with the IP of your simulator on your network:
@@ -28,3 +30,8 @@ Flash the following image to SD card using <a target="_blank" href="https://etch
   <source src="/assets/video/yaw3wifi6e.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video> 
+
+## This took a few months to figure out. I also had to rebuild the entire image and redevelop the Yaw software to work with newer RaspberryPi OS. If it helped you.. maybe you could  
+<div align="center">
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="ItsVRK" data-color="#FFDD00" data-emoji="" data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+</div>
