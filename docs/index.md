@@ -19,6 +19,8 @@ Restore or update the [stock SD Card Image](hardware/yaw3/stocksdcard.md)
 
 Modify the Yaw 3 to have [Wifi6E](hardware/yaw3/wifi6e.md)
 
+Yaw 3 [Parts Information](hardware/yaw3/parts.md)
+
 ### [Yaw 2 Assembly](hardware/yaw2/assembly.md)
 
 Assemble your Yaw 2 device by following the step-by-step guide.
