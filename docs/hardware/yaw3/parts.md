@@ -13,7 +13,7 @@ Make sure you select the correct size when ordering each item!
 2 * <a href="https://s.click.aliexpress.com/e/_c3ZDakE7" target="_blank">OD32 x W12 x M8 Polyurethane Covered Roller</a><br />
 one central per side, see image above (order quantity of 7 to cover both Pitch and Roll)
 
-4 * <a href="https://s.click.aliexpress.com/e/_c4PCuVRp" target="_blank">D30 x W30 x hole 8 PU polyurethane coated</a><br />
+4 * <a href="https://s.click.aliexpress.com/e/_c3lJLltD" target="_blank">8x30x30mm POM Double Bearing Rollers</a><br />
 load bearing rollers indicated in image below (order quantity of 4)
 
 ![Yaw 3 Pitch load rollers](../../assets/images/yaw3/pitch-load-rollers.webp)
