@@ -21,9 +21,9 @@ To begin using Infuse VR, follow these steps:
 1. **Install the Infuse VR Server on Your PC**:
 	* Download and install the Infuse VR server application via Steam:<br /><a href="https://store.steampowered.com/app/2532240/Infuse_VR/" target="_blank">https://store.steampowered.com/app/2532240/Infuse_VR/</a>
 2. **Install the Infuse VR Client APK on Your Headset**:
-	* Open InfuseVR, navigate to the Connections tab, and click the "Install latest APK" button with your headset connected in Developer mode.<br /><br />
+	* If you have a Quest, install Infuse Client from the Meta store:<br /><a href="https://www.meta.com/en-gb/experiences/infuse-vr/8314368655305497/">https://www.meta.com/en-gb/experiences/infuse-vr/8314368655305497/</a><br />
+	* For other HMD's Open InfuseVR, navigate to the Connections tab, and click the "Install latest APK" button with your headset connected in Developer mode.<br /><br />
 	![Install Infuse VR client apk](../assets/images/infusevr/install-apk.png)
-	* Some HMD's allow download and installation from a browser, you can use this link:<br /><a href="https://yaw.one/infusevr/infusevr_client_android_playtest.apk">https://yaw.one/infusevr/infusevr_client_android_playtest.apk</a>
 
 ## Using Infuse VR
 
