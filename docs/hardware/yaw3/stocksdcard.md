@@ -21,6 +21,17 @@ Flash the following image to SD card using <a target="_blank" href="https://etch
 
 <a target="_blank" href="https://www.dropbox.com/scl/fi/z3sw98az1iv9dd7d81ekb/YawIII-RaspberryPIOS12-clean-opt.zip?rlkey=op915xaa90l3ocizqkcvj2ovu&st=o4hwm8b4&dl=0">YawIII-RaspberryPIOS12-clean-optimized</a>
 
+**Note:** Some users have had issues connecting via bluetooth to send wifi details to work around this do the following.
+
+Connect ethernet cable to the Pi, ssh into the pi and execute the following, replacing `AccessPointName` with your actual AP's name in both lines and `***` with the wifi password in the first line:
+
+```
+sudo nmcli dev wifi connect "AccessPointName" password "***" ifname wlan0
+sudo nmcli connection modify AccessPointName connection.autoconnect yes
+```
+
+Then you can execute `sudo reboot` in the terminal and unplug ethernet while it's rebooting, it should connect to wifi automatically now.
+
 
 ## I had to rebuild the entire image and redevelop the Yaw software to work with newer RaspberryPi OS. If it helped you.. maybe you could  
 <div align="center">
