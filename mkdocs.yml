@@ -67,6 +67,7 @@ nav:
     - Balancing your Simulator: hardware/balance.md
     - Connect to Network: hardware/connect.md
     - USB Peripherals: hardware/peripherals.md
+    - Wireless HMDs: hardware/wireless-hmds.md
   - Software:
     - Yaw VR Config: software/yawvrconfig.md
     - Infuse VR: software/infusevr.md

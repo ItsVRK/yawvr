@@ -41,6 +41,10 @@ Connect your device to a network using the instructions provided.
 
 Discover how to use USB peripherals with your Yaw.
 
+### [Wireless HMDs](hardware/wireless-hmds.md)
+
+Optimal network setup for wireless HMDs.
+
 ## Software
 
 -----------

@@ -1,5 +1,5 @@
 # Infuse VR
-Infuse VR is a cutting-edge application designed for streaming VR content from a PC to wireless headsets like Meta Quest and Pico. It also offers motion compensation and comprehensive hand and gaming accessory visualization, making it an ideal solution for VR enthusiasts.
+Infuse VR is a cutting-edge application designed for streaming VR content from a PC to wireless headsets like Meta Quest and Pico. It also offers motion compensation and comprehensive hand and gaming accessory visualization, making it an ideal solution for VR enthusiasts. However for the absolute best results with Streaming PCVR to a wireless HMD see how to [setup the optimal network topology](../hardware/wireless-hmds.md).
 
 <div style="background-color:green; border-radius: 5px; font-weight: bold; margin-bottom: 20px; padding: 5px 10px;">
 Infuse VR can be used independently of the Yaw Motion Simulator and is compatible with third-party motion software such as Sim Racing Studio
