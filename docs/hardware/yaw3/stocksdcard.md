@@ -17,7 +17,7 @@ The output is your VirtualHere license, save this! you will need this if your SD
 
 ## Updated RaspberyPi OS Stock Image
 
-Flash the following image to SD card using <a target="_blank" href="https://etcher.balena.io/">Balena Etcher</a>
+Flash the following image to a high quality <a href="https://amzn.to/4cguMio" target="_blank">32GB Micro SD card</a> using <a target="_blank" href="https://etcher.balena.io/">Balena Etcher</a>
 
 <a target="_blank" href="https://www.dropbox.com/scl/fi/z3sw98az1iv9dd7d81ekb/YawIII-RaspberryPIOS12-clean-opt.zip?rlkey=op915xaa90l3ocizqkcvj2ovu&st=o4hwm8b4&dl=0">YawIII-RaspberryPIOS12-clean-optimized</a>
 

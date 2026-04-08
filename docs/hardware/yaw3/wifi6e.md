@@ -20,7 +20,7 @@ The output is your VirtualHere license, save this! you will need this if your SD
 - [Longer PCIE ribbon](https://amzn.to/4oOFzo0)
 - [3D Printed mounting adapter, STL here](../../assets/3dmodels/yaw3-hat_mount.stl)
 
-Flash the following image to SD card using <a target="_blank" href="https://etcher.balena.io/">Balena Etcher</a>
+Flash the following image to a high quality <a href="https://amzn.to/4cguMio" target="_blank">32GB Micro SD card</a> using <a target="_blank" href="https://etcher.balena.io/">Balena Etcher</a>
 
 <a target="_blank" href="https://www.dropbox.com/scl/fi/e9qmyjaa4kf5834dsfl0g/YawIII-RaspberryPIOS12-wifi6E-opt.zip?rlkey=uhi4oinz3wbrz24ghkpc9n4go&st=gc2d5hpm&dl=0">YawIII-RaspberryPIOS12-wifi6E-opt.zip</a>
 
